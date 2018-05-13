@@ -1,0 +1,9 @@
+# UE4 Folders
+.vscode
+Intermediate
+Saved
+Binaries
+DerivedDataCache
+
+
+**/*BuildData.uasset
