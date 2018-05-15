@@ -6,5 +6,6 @@ Binaries
 DerivedDataCache
 
 
+Content/FlyingBP/Maps/*_BuiltData.uasset
 Content/Maps/*_BuiltData.uasset
 **/*BuildData.uasset
